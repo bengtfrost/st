@@ -12,4 +12,3 @@ typedef struct {
 void hbunloadfonts();
 void hbtransform(HbTransformData *, XftFont *, const Glyph *, int, int);
 void hbcleanup(HbTransformData *);
-
