@@ -132,18 +132,18 @@ static const char *colorname[] = {
     "#4d9e78", // green (softer)
     "#c2a052", // yellow (softened)
     "#3f6690", // blue (softened)
-    "#8f679d", // magenta (softer)
-    "#3ea3ac", // cyan (softer)
+    "#84708a", // magenta (softened, less blue)
+    "#4a8f92", // cyan (softened, less blue)
     "#f2f1ed", // white (more white)
 
     /* 8 bright colors */
-    "#5a5d64", // bright black (softer)
+    "#5f5f61", // bright black (softened, less blue-tint)
     "#cf4952", // bright red (softer)
     "#5cc98d", // bright green (softer)
     "#d1b46c", // bright yellow (softened)
     "#5680a8", // bright blue (softened)
-    "#ae6cbe", // bright magenta (softer)
-    "#57cbe0", // bright cyan (softer)
+    "#a3819f", // bright magenta (softened, less blue)
+    "#69b8bd", // bright cyan (softened, less blue)
     "#fbfaf7", // bright white (more white)
 
     [255] = 0,
@@ -154,6 +154,7 @@ static const char *colorname[] = {
     "#d8d7d3", // cursor (256)
     "#1d1d1d", // reverse cursor (257)
 };
+
 /*
  * Default colors (colorname index)
  * foreground, background, cursor, reverse cursor
