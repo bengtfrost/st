@@ -127,7 +127,7 @@ unsigned int tabspaces = 8;
 
 static const char *colorname[] = {
     /* 8 normal colors */
-    "#1d1d1d", // black (dimmed)
+    "#202020", // black (dimmed)
     "#a01820", // red
     "#26a269", // green
     "#cd9309", // yellow
@@ -150,9 +150,9 @@ static const char *colorname[] = {
 
     /* more colors can be added after 255 to use with DefaultXX */
     "#d8d7d3", // default foreground (258)
-    "#1a1a1a", // default background (259) - dimmed
+    "#1d1d1d", // default background (259) - dimmed
     "#d8d7d3", // cursor (256)
-    "#1a1a1a", // reverse cursor (257)
+    "#1d1d1d", // reverse cursor (257)
 };
 /*
  * Default colors (colorname index)
