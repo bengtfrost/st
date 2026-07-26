@@ -134,7 +134,7 @@ static const char *colorname[] = {
     "#3f6690", // blue (softened)
     "#84708a", // magenta (softened, less blue)
     "#4a8f92", // cyan (softened, less blue)
-    "#f2f1ed", // white (more white)
+    "#f8f7f4", // white (more white)
 
     /* 8 bright colors */
     "#5f5f61", // bright black (softened, less blue-tint)
@@ -144,7 +144,7 @@ static const char *colorname[] = {
     "#5680a8", // bright blue (softened)
     "#a3819f", // bright magenta (softened, less blue)
     "#69b8bd", // bright cyan (softened, less blue)
-    "#fbfaf7", // bright white (more white)
+    "#fdfcfa", // bright white (more white)
 
     [255] = 0,
 
