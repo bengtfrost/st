@@ -5,14 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-/*
 static char *font =
     "monospace:size=9.5:antialias=true:autohint=true:hintstyle=hintslight";
-*/
-static char *font =
-    "monospace:size=9.5:antialias=true:autohint=true:hintstyle=hintslight,"
-    "Symbols Nerd Font "
-    "Mono:size=9.5:antialias=true:autohint=true:hintstyle=hintslight";
 static int borderpx = 2;
 
 /*
